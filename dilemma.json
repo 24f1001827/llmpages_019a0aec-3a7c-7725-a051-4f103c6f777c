@@ -1,0 +1,11 @@
+{
+  "people": 3,
+  "case_1": {
+    "swerve": false,
+    "reason": "Choosing to stay the course avoids intentionally hitting the lone person; hitting two people is unintentional harm."
+  },
+  "case_2": {
+    "swerve": true,
+    "reason": "Swerving to avoid hitting two criminals and instead hitting one child prioritizes protecting innocent life."
+  }
+}
